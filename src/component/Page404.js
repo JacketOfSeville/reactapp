@@ -1,6 +1,6 @@
-import styles from './css/404.module.css'
+import styles from './css/404.module.css' // Estilo CSS da página
 import { Link } from 'react-router-dom';
-import Gato404 from './img/404.jpg';
+import Gato404 from './img/404.jpg'; // Imagem do Gato 404
 
 function Page404() {
     return (

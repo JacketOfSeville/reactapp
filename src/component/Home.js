@@ -6,6 +6,7 @@ function Home() {
         <div>
             <h1 className={styles.homeText}>Home</h1>
             <p className={styles.homeText}><Link to='/404'>Erro 404</Link></p>
+            <p className={styles.homeText}><Link to='/About'>Sobre</Link></p>
         </div>
     )
 }
