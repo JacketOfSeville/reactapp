@@ -7,6 +7,10 @@ const colorConfigs = {
         hoverBg: "#1e293a",
         activeBg: "#1e253a"
     },
+    topbar: {
+        bg: "#ffffff",
+        color: "#000000"
+    },
     mainBg: colors.grey["100"]
 }
 export default colorConfigs
